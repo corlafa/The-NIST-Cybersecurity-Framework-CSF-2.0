@@ -1,1 +1,1 @@
-# The-NIST-Cybersecurity-Framework-CSF-2.0
+# The NIST Cybersecurity Framework CSF 2.0
