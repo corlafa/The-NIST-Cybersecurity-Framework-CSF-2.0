@@ -59,10 +59,8 @@ Core แบ่งลำดับชั้นเป็น: **Functions** (กิ�
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c8639474-d834-4b00-8f5f-0f0621991d74" width="640">
 </p>
+
 ### 🔴 6 Functions สำคัญ
-
-
-
 | Function | วัตถุประสงค์ | กิจกรรมหลัก |
 | :--- | :--- | :--- |
 | **1. GOVERN (GV)** | กำหนดทิศทางและนโยบาย | บริบทองค์กร, กลยุทธ์ความเสี่ยง, Supply Chain, บทบาทหน้าที่ |
